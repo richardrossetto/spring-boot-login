@@ -1,6 +1,6 @@
 ## Project: Login
 
-Built With
+# Built With
     * JDK 8
     * Maven - Dependency Management
     * JPA - Data Persistence
@@ -11,5 +11,5 @@ Built With
     * Bootstrap - Toolkit for developing with HTML, CSS, and JSP 
      
     
-#Run project with maven test profile
-    * java -jar -Dspring.profiles.active=test target/login-0.0.1-SNAPSHOT.jar
+# Run project with maven test profile
+    * java -jar -Dspring.profiles.active=test target/login-0.0.1-SNAPSHOT.jar    
